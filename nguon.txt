@@ -2,3 +2,5 @@
 2/ https://www.techtarget.com/searchsecurity/definition/cryptography
 3/ Giáo trình mật mã học và an toàn thông tin - Ts.Thái Thanh Tùng
 4/ https://viblo.asia/p/gioi-thieu-cac-loai-thuat-toan-ma-hoa-du-lieu-07LKXBW8lV4
+5/ https://wiki.vnoi.info/vi/translate/he/Wilsons-theorem
+6/ https://wiki.vnoi.info/vi/translate/he/Wilsons-theorem
